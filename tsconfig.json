@@ -9,6 +9,7 @@
             "@wdio/mocha-framework",
             "@wdio/appium-service"
         ],
-        "target": "es2022"
+        "target": "es2022",
+        "allowSyntheticDefaultImports": true
     }
 }
